@@ -1,5 +1,13 @@
-### Hi there 👋
+### Hello World 👋
 
+💬 I am currently applying for Computer/Data Science graduate programs.My interest lies in Machine Learning, Statistical Methods, and Natural Language Processing (NLP).
+
+💬 I completed a BSc. degree in Electronics and Telecommunication Engineering in 2022 from Rajshahi University of Engineering Technology (RUET), one of the premier academic instituions in Bangladesh. My undergraduate thesis was on feature selection engineering for the prediction of loan default in a high-dimensional peer-to-peer lending system.
+
+💬 Shortly after that, I worked as a Junior Data Analyst at Apon-Wellbeing, a Fair trade chain retail shop for lower income families. I mostly collaborated directly with the operations and supply chain teams, assisting them with product analysis, customer purchasing behavior, and used causal inference to forecast the effects of an offer.
+
+
+  
 <!--
 **Manisha-Karim/Manisha-Karim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
